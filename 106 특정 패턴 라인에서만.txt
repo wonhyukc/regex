@@ -1,0 +1,13 @@
+1. 
+join
+이 있는 행에서 
+inner
+를 찾아 삭제
+
+
+
+
+
+
+
+:g/join/s/INNER//g

@@ -1,0 +1,6 @@
+:8,22 s/'// g
+
+:/view/,/create/        s/'//g
+:/view/,/create/+5        s/'//g
+
+:/view/-1,/create/+1        s/.//g
