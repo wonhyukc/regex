@@ -1,0 +1,10 @@
+1위: 소프트웨어 개발자(Software Developer), 평균 연봉 $90,060
+2위: 컴퓨터 시스템 분석가(Computer Systems Analyst), 평균 연봉 $79,680
+3위: 치과의사(Dentist), 평균 연봉  $145, 240
+4위: 전문간호사(NP; Nurse Practitioner), 평균 연봉   $89,960
+5위: 약사(Pharmacist), 평균 연봉  $116,670
+6위: 등록간호사(RN; Registered Nurse), 평균 연봉 $65,470
+7위: 물리 치료사(Physical Therapist), 평균 연봉 $79,860
+8위: 의사(Physician), 평균 연봉 $187,199
+9위: 웹 개발자(Web Developer), 평균 연봉 $62,500
+10위: 치과 위생사(Dental Hygienist), 평균 연봉 $70,210
